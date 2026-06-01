@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/deep-commitment/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Deep Commitment](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-commitment/) |
+| **Get License** | [Get License For Deep Commitment](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/deep-commitment/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire burning when our shadows start to blend
+> A quiet kind of magic that I never want to end
+> I trace the little constellations hiding in your eyes
+> We lose ourselves tonight beneath the midnight skies
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
